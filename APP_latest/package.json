@@ -1,0 +1,39 @@
+{
+  "name": "ibc",
+  "version": "1.0.0",
+  "description": "events application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kiran",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/storage": "^5.7.0",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.19.0",
+    "cluster": "^0.7.7",
+    "cron": "^1.8.2",
+    "express": "^4.17.1",
+    "firebase": "^8.2.1",
+    "firebase-admin": "^9.4.2",
+    "fs": "0.0.1-security",
+    "geolib": "^3.3.1",
+    "http": "0.0.1-security",
+    "https": "^1.0.0",
+    "i": "^0.3.6",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.11.7",
+    "morgan": "^1.9.1",
+    "multer": "^1.4.2",
+    "nodemailer": "^6.4.17",
+    "npm": "^6.14.10",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "request": "^2.88.2",
+    "twilio": "^3.54.1",
+    "util": "^0.12.3"
+  }
+}
